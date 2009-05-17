@@ -21,6 +21,10 @@
  * THE SOFTWARE.
  */
 
+/* Copyright (c) 2009 Mark Gross */
+/* sublicenced under the Apache License */
+
+
 #include <avr/io.h>
 #include <avr/pgmspace.h>
 #include <stdint.h>
